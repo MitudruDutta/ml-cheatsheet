@@ -1,0 +1,21 @@
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+.env
+.env*/
+.DS_Store
+*.log
+# Virtual environments
+venv/
+.env/
+.venv/
+# Data files (optional, comment out if you want them tracked)
+*.csv
+*.tsv
+*.data
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+# VSCode / IDE settings
+.vscode/
+.idea/
+
