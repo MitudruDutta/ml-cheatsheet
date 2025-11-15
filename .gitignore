@@ -9,8 +9,7 @@ __pycache__/
 venv/
 .env/
 .venv/
-# Data files (optional, comment out if you want them tracked)
-*.csv
+
 *.tsv
 *.data
 # Jupyter notebook checkpoints
